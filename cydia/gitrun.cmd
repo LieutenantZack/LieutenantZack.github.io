@@ -1,4 +1,4 @@
 @echo off
 git add .
-git commit --no-edit
+git commit -m "Update"
 git push -u lzorigin master

@@ -52,7 +52,7 @@
 			$.ajax({
 				type    : "GET",
 				dataType: "xml",
-				url     : ("/Packages.xml"),
+				url     : ("/cydia/Packages.xml"),
 				success: function(xml) {
 					$(xml).find('item').each(function(){
 						addRow($(this))
