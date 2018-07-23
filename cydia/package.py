@@ -62,7 +62,7 @@ for x in PackagesSorted:
     PackageList = {}
     data = x.replace(': ', '\n').split('\n')
     for i,k in zip(data[0::2], data[1::2]):
-        PackageList[i] = k.replace('https://how-bout-no.github.io/', '')
+        PackageList[i] = k.replace('https://LieutenantZack.github.io/cydia/', '')
     PackageListFinal.append(PackageList)
 	
 # Necessary final dictionary

@@ -13,7 +13,7 @@
     <Description>Complete theme Fantasys colorful theme.</Description>
     <Name>Fantasys custom bootlogo</Name>
     <Author>Fantasy &lt;LieutenantZack@gmail.com&gt;</Author>
-    <Depiction>https://LieutenantZack.github.io/cydia/depictions/?p=com.fantasy.fantasyscolorfultheme</Depiction>
+    <Depiction>depictions/?p=com.fantasy.fantasyscolorfultheme</Depiction>
   </item>
   <item>
     <Package>com.supermamon.newpackage</Package>
@@ -28,7 +28,7 @@
     <Description>This is a sample new package. Firmware should be greater than 7.0</Description>
     <Name>New Package</Name>
     <Author>Reposi3 &lt;reposithree@gmail.com&gt;</Author>
-    <Depiction>https://supermamon.github.io/Reposi3/depictions/?p=com.supermamon.newpackage</Depiction>
+    <Depiction>depictions/?p=com.supermamon.newpackage</Depiction>
   </item>
   <item>
     <Package>com.supermamon.oldpackage</Package>
@@ -43,6 +43,6 @@
     <Description>This is a sample old package. Firmware should be lower than 7.0</Description>
     <Name>Old Package</Name>
     <Author>Reposi3 &lt;reposithree@gmail.com&gt;</Author>
-    <Depiction>https://supermamon.github.io/Reposi3/depictions/?p=com.supermamon.oldpackage</Depiction>
+    <Depiction>depictions/?p=com.supermamon.oldpackage</Depiction>
   </item>
 </package>
