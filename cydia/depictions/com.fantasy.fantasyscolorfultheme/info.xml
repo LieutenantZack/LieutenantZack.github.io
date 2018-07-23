@@ -17,7 +17,12 @@
 	<descriptionlist>
 		<description>Complete theme Fantasys colorful theme.</description>
 	</descriptionlist>
-	<screenshots></screenshots>
+	<screenshots>
+		<screenshot>
+			<description>Test screenshot...</description>
+			<image>test.jpg</image>
+		</screenshot>
+	</screenshots>
 	<changelog>
 		<change>Initial release</change>
 	</changelog>
