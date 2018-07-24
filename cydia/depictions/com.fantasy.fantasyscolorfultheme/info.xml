@@ -1,6 +1,6 @@
 <package>
-	<id>com.fantasy.fantasyscolorfultheme</id>
-	<name>Fantasys custom bootlogo</name>
+	<id>com.fantasy.customRespringLogo</id>
+	<name>Fantasys custom Respring Logo</name>
 	<version>1.0</version>
 	<compatibility>
 		<firmware>
@@ -15,7 +15,7 @@
 		<package>Anemone</package>
 	</dependencies>
 	<descriptionlist>
-		<description>Complete theme Fantasys colorful theme.</description>
+		<description>Makes your Respring logo into the Itunes.</description>
 	</descriptionlist>
 	<screenshots></screenshots>
 	<changelog>
