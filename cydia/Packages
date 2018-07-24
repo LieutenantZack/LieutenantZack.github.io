@@ -1,4 +1,4 @@
-Package: com.fantasy.fantasyscolorfultheme
+Package: com.fantasy.customRespringLogo
 Version: 1.0
 Section: Themes
 Maintainer: Fantasy <LieutenantZack@gmail.com>
@@ -7,7 +7,7 @@ Architecture: iphoneos-arm
 Filename: ./debs/com.fantasy.fantasyscolorfultheme_1.0_iphoneos-arm.deb
 Size: 124522
 MD5sum: dad953e0acfdffd17b2b029d1b658a87
-Description: Complete theme Fantasys colorful theme.
-Name: Fantasys custom bootlogo
+Description: Fantasy's Custom Respring Logo.
+Name: Fantasys custom Respringlogo
 Author: Fantasy <LieutenantZack@gmail.com>
 Depiction: https://LieutenantZack.github.io/cydia/depictions/?p=com.fantasy.fantasyscolorfultheme
