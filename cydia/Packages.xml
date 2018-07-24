@@ -1,17 +1,17 @@
 <?xml version="1.0" ?>
 <package>
   <item>
-    <Package>com.fantasy.fantasyscolorfultheme</Package>
+    <Package>com.fantasy.customRespringLogo</Package>
     <Version>1.0</Version>
     <Section>Themes</Section>
     <Maintainer>Fantasy &lt;LieutenantZack@gmail.com&gt;</Maintainer>
     <Depends>com.anemonetheming.anemone</Depends>
     <Architecture>iphoneos-arm</Architecture>
-    <Filename>./debs/com.fantasy.fantasyscolorfultheme_1.0_iphoneos-arm.deb</Filename>
+    <Filename>./debs/com.fantasy.customRespringLogo_1.0_iphoneos-arm.deb</Filename>
     <Size>124522</Size>
     <MD5sum>dad953e0acfdffd17b2b029d1b658a87</MD5sum>
-    <Description>Complete theme Fantasys colorful theme.</Description>
-    <Name>Fantasys custom bootlogo</Name>
+    <Description>Fantasy's custom respring logo.</Description>
+    <Name>Fantasys custom respringlogo</Name>
     <Author>Fantasy &lt;LieutenantZack@gmail.com&gt;</Author>
     <Depiction>depictions/?p=com.fantasy.fantasyscolorfultheme</Depiction>
   </item>
